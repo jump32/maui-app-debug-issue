@@ -1,0 +1,19 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MauiApp3", "MauiApp3\MauiApp3.csproj", "{4543DFE5-28C6-4FAE-B1FE-ACF7E6745E42}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Release|Any CPU = Release|Any CPU
+		Debug|Any CPU = Debug|Any CPU
+		Broken|Any CPU = Broken|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4543DFE5-28C6-4FAE-B1FE-ACF7E6745E42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4543DFE5-28C6-4FAE-B1FE-ACF7E6745E42}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4543DFE5-28C6-4FAE-B1FE-ACF7E6745E42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4543DFE5-28C6-4FAE-B1FE-ACF7E6745E42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4543DFE5-28C6-4FAE-B1FE-ACF7E6745E42}.Broken|Any CPU.ActiveCfg = Broken|Any CPU
+		{4543DFE5-28C6-4FAE-B1FE-ACF7E6745E42}.Broken|Any CPU.Build.0 = Broken|Any CPU
+	EndGlobalSection
+EndGlobal
